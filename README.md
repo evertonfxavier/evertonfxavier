@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Meu nome é Everton, tenho 27 anos e Sou desenvolvedor <strong>frontend</strong>.<br>
+  Olá! Meu nome é Everton, tenho 27 anos e sou desenvolvedor <strong>front-end Jr.</strong>.<br>
 </p>
 
 <p align="left">
