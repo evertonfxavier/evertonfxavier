@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS3, Sass, JavaScript, Bootstrap, React, NextJS ...</strong>
+  🦄 Stacks: <strong>HTML, CSS3, Sass, JavaScript, Bootstrap, React, NextJS ...</strong>
 </p>
 
 <p align="left">
