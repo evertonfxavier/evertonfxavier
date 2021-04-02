@@ -1,6 +1,5 @@
 ### Hey there 👋
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/191058320@N04/51089788944/in/dateposted-public/" title="c051cb3ce81ebb07373aaef516f8f421-notebook-laptop-illustration-by-vexels"><img src="https://live.staticflickr.com/65535/51089788944_bb9a65dc6f.jpg" width="500" height="500" alt="c051cb3ce81ebb07373aaef516f8f421-notebook-laptop-illustration-by-vexels"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/65535/51089788944_bb9a65dc6f.jpg" min-width="400px" max-width="400px" width="400px"  align="right" alt="vx"> 
 
 <p align="left"> 
   Olá! Meu nome é Everton, tenho 27 anos e sou desenvolvedor <strong>front-end Jr.</strong>.<br>
