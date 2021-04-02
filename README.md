@@ -1,5 +1,5 @@
 ### Hey there 👋
-<img src="https://live.staticflickr.com/65535/51089788944_bb9a65dc6f.jpg" min-width="400px" max-width="400px" width="400px"  align="right" alt="vx"> 
+<img src="https://live.staticflickr.com/65535/51089788944_bb9a65dc6f.jpg" min-width="400px" max-width="400px" width="400px" height="220px" align="right" alt="vx"> 
 
 <p align="left"> 
   Olá! Meu nome é Everton, tenho 27 anos e sou desenvolvedor <strong>front-end Jr.</strong>.<br>
