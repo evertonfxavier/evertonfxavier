@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-   <a href="https://www.facebook.com/verttox/" alt="Facebook" target="_blank">
+   <a href="https://www.facebook.com/evertonfxvr/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
   <a href="mailto:evertonfxavier@gmail.com" alt="Gmail" target="_blank">
