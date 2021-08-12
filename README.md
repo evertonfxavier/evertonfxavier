@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Stacks: <strong>HTML, CSS3, Sass, JavaScript, Bootstrap, React, NextJS ...</strong>
+  🦄 Stacks: <strong>HTML, CSS3, Sass, Bootstrap, JavaScript, Typescript, React, NextJS, React Native...</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Caso queira trocar uma ideia, trocar conhecimento, tira alguma dúvida ou até mesmo desenvolver um projeto comigo: ⤵️
+  💌 Caso queira trocar uma ideia, conhecimento, tira alguma dúvida ou até desenvolver um projeto comigo: ⤵️
 </p>
 
 <p align="left">
