@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Stacks: <strong>HTML, CSS3, Sass, Bootstrap, JavaScript, Typescript, React, NextJS, React Native...</strong>
+  🤓 Stacks: <strong>HTML, CSS3, Sass, Bootstrap, JavaScript, Typescript, React, NextJS, React Native...</strong>
 </p>
 
 <p align="left">
@@ -18,9 +18,6 @@
 </p>
 
 <p align="left">
-   <a href="https://www.facebook.com/evertonfxvr/" alt="Facebook" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
   <a href="mailto:evertonfxavier@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   
@@ -32,5 +29,4 @@
 
   <a href="https://api.whatsapp.com/send?phone=5581997736987" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  
 </p>  
