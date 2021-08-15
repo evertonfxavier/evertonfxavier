@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Caso queira trocar uma ideia, conhecimento, tira alguma dúvida ou até desenvolver um projeto comigo: ⤵️
+  💌 Caso queira trocar uma ideia, conhecimento, tirar alguma dúvida ou até desenvolver um projeto comigo: ⤵️
 </p>
 
 <p align="left">
