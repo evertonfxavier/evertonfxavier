@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/everton-xavier-a18b2b1aa/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://web.whatsapp.com/send?phone=5583996216403&text=Oi%20tudo%20bem%3F%0A%0Agostei%20de%20vc.%20vamos%20conversar%3F" alt="WhatsApp" target="_blank">
+  <a href="https://web.whatsapp.com/send?phone=5583996153154" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
