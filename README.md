@@ -2,7 +2,7 @@
 <!-- <img src="https://live.staticflickr.com/65535/51089788944_bb9a65dc6f.jpg" min-width="330px" max-width="330px" width="330px" height="300px" align="right" alt="vx">  -->
 
 <p align="left"> 
-  Olá! Meu nome é Everton, tenho 28 anos e sou desenvolvedor <strong>front-end Jr.</strong>.<br>
+  Olá! Meu nome é Everton, tenho 28 anos e sou desenvolvedor <strong>Front-end Pleno</strong>.<br>
 </p>
 
 <p align="left">
