@@ -2,7 +2,7 @@
 <!-- <img src="https://live.staticflickr.com/65535/51089788944_bb9a65dc6f.jpg" min-width="330px" max-width="330px" width="330px" height="300px" align="right" alt="vx">  -->
 
 <p align="left"> 
-  Meu nome é Everton, tenho 28 anos e sou desenvolvedor <strong>Front-end Pleno</strong>.<br>
+  Meu nome é Everton, tenho 28 anos e sou <strong> desenvolvedor pleno </strong> com foco em <strong>Front-end</strong>.<br>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Caso queira conversar, tirar alguma dúvida ou até solicitar orçamento para desenvolver um projeto comigo: ⤵️
+  Caso queira conversar, tirar alguma dúvida ou até solicitar orçamento para desenvolver um projeto comigo: ⤵️
 </p>
 
 <p align="left">
