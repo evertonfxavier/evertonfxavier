@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🤓 Stacks: <strong>HTML, CSS3, Sass, Bootstrap, JavaScript, Typescript, React, NextJS, React Native...</strong>
+  🤓 Stacks: <strong>HTML, CSS3, Sass, Bootstrap, JavaScript, Typescript, ReactJs, NextJs, React Native e expo.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Git, GitHub, Figma, Insomnia, Vercel...</strong>
+  💼 Ferramentas: <strong>VS Code, Git, GitHub, Figma, Insomnia, Vercel, etc.</strong>
 </p>
 
 <p align="left">
