@@ -1,8 +1,8 @@
-### Olá 👋
+### Hi there! 👋
 <!-- <img src="https://live.staticflickr.com/65535/51089788944_bb9a65dc6f.jpg" min-width="330px" max-width="330px" width="330px" height="300px" align="right" alt="vx">  -->
 
 <p align="left"> 
-  Meu nome é Everton, tenho 30 anos e sou <strong> desenvolvedor pleno </strong> com foco em <strong>Front-end</strong>.<br>
+  My name is Everton, I'm 30 years old, and I am a developer <strong> focusing on Front-end</strong>.<br>
 </p>
 
 <p align="left">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Git, GitHub, Figma, Insomnia, Vercel, etc.</strong>
+  💼 Tools: <strong>VS Code, Git, GitHub, Figma, Insomnia, Vercel, etc.</strong>
 </p>
 
 <p align="left">
-  Caso queira conversar, tirar alguma dúvida ou até solicitar orçamento para desenvolver um projeto comigo: ⤵️
+  If you want to chat, ask any questions, or even request a quote for a project: ⤵️
 </p>
 
 <p align="left">
